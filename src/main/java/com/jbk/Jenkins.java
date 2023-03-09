@@ -3,7 +3,9 @@ package com.jbk;
 public class Jenkins {
 
 	public static void main(String[] args) {
+		int a = 10;
+		int b = 20;
 		
-		System.out.println("jenkins project");
+		System.out.println(a+b);
 	}
 }
